@@ -1,0 +1,20 @@
+#
+#
+#                  WelcomeHome | 1.0
+#                    Made by Jokni
+
+Send a MOTD: true
+#Use "\n" for new lines on the message.
+MOTD Message: '§fWelcome to my server!\nFor help use /help'
+
+Send a Title: true
+Title Message: 'Welcome to my server!'
+Subtitle message: 'Have fun!'
+
+Send a Actionbar: true
+Actionbar Message: 'Welcome to my server, from the actionbar!'
+
+#List of sounds can be found on this link: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+Sound on join: true
+Sound: UI_TOAST_CHALLENGE_COMPLETE
+Volume: 1.0F

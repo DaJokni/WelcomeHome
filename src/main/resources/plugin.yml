@@ -1,0 +1,11 @@
+name: WelcomeHome
+version: ${project.version}
+main: fi.jokni.welcomehome.WelcomeHome
+api-version: 1.13
+description: A lightweight MOTD plugin.
+prefix: Welcome home >
+author: Jokni
+commands:
+  welcomehome:
+    aliases: weme
+
